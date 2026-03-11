@@ -12,7 +12,7 @@ Three datasets were integrated:
 
 Because this analysis combines multiple datasets at different grains, a clear understanding of table relationships was critical. The diagram below illustrates the database schema and the aggregation strategy used to construct both student- and school-level datasets.
 
-![[1A_database_design.png]]
+![Database Schema](figures/1A_database_design.png)
 
 ## Definitions
 
