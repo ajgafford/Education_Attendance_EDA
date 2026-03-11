@@ -46,14 +46,14 @@ To support leadership decision-making, interactive school- and student-level das
 
 ### Attendance Performance
 
-![[5A_school_attendance_rate.png]]
+![School Attendance Rate Table](figures/5A_school_attendance_rate.png)
 - All three schools fall below the district’s **95% attendance target**, indicating system-wide attendance challenges rather than an isolated school-level issue.
 
 ### Attendance Status Distribution
 
 To better understand where these attendance gaps originate, student attendance status distributions were examined across schools.
 
-![[5B_school_attendance_status_stacked_bar.png]]
+![School Attendance Status Stacked Bar Chart](figures/5B_school_attendance_status_stacked_bar.png)
 - **North Star Middle** has the highest percentage of students with **Satisfactory attendance** (37.8% of students), but also has the highest percentage of students with **At-Risk attendance** (31.6% of students).
 	- Because **North Star Middle** has the largest concentration of **At-Risk** students, targeted early interventions at this tier may produce the fastest improvement toward attendance goals.
 - **Littlebrook Elementary** and **Stevenson High** face the highest rates of **Chronic absenteeism** (36.6% and 38.0%, respectively).
@@ -63,7 +63,7 @@ To better understand where these attendance gaps originate, student attendance s
 
 To understand the drivers behind absenteeism, the distribution of absence reasons was examined across all three schools.
 
-![[5C_school_attendance_type_stacked_bar.png]]
+![School Attendance Reason Stacked Bar Chart](figures/5C_school_attendance_type_stacked_bar.png)
 - **Unexcused absences** are the biggest drivers of the lower attendance rate for **Littlebrook Elementary** (68.5% of absences) and **Stevenson High** (63.3% of absences).
 	- This suggests that these schools should focus their intervention measures on family communication and establishing a strong attendance culture to prevent such absences.
 - **Excused absences** (71.1% of absences) and **suspensions** (13.9% of absences) are the biggest drivers of lower attendance rate for **North Star Middle**.
@@ -71,19 +71,19 @@ To understand the drivers behind absenteeism, the distribution of absence reason
 
 ### Grade-Level Patterns
 
-![[5D_littlebrook_attendance_grade_stacked_bar.png]]
+![Littlebrook Attendance Grade Stacked Bar Chart](figures/5D_littlebrook_attendance_grade_stacked_bar.png)
 - At **Littlebrook Elementary**, the kindergarten class faces the highest rate of **Chronic absenteeism**. Addressing this cohort early may support sustained attendance improvement over time.
 - **Unexcused absence rate** tends to increase from kindergarten to 3rd grade. Leadership should look into sustained intervention strategies that target these absences to help ensure sustainable improved outcomes.
 - 3rd through 5th grade, and 4th grade in particular, face a high rate of absences due to **suspensions** (13.8%, 28.8%, and 15.3%, respectively).
 	- School leadership should examine behavioral strategies and intervention at these grade levels to ensure students are not unnecessarily absent from the classroom.
 
-![[5E_northstar_attendance_grade_stacked_bar.png]]
+![North Star Attendance Grade Stacked Bar Chart](figures/5E_northstar_attendance_grade_stacked_bar.png)
 - The 6th grade cohort faces the best rate of **Satisfactory attendance rate** (43.1%), but also the highest rate of **At-Risk Absenteeism** (36.1%).
 	- Targeting this cohort will help create sustained improvements at **North Star Middle**.
 - The rate of absences due to **suspensions** increases by grade level.
 	- School leadership should address behavioral strategies to ensure disciplinary practices minimize lost instructional time while maintaining a supportive learning environment.
 
-![[5E_stevenson_attendance_grade_stacked_bar.png]]
+![Stevenson Attendance Grade Stacked Bar Chart](figures/5F_stevenson_attendance_grade_stacked_bar.png)
 - **Chronic** and **At-Risk absenteeism** tends to increase across grade levels at **Stevenson High**.
 	- Leadership should focus on sustained intervention strategies to help improve attendance outcomes moving foward.
 
